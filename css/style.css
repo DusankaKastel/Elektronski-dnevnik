@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(235, 212, 8);
+}
+
+.container {
+    background-color: rgb(118, 186, 231);
+}
+
+.badge-primary {
+    background-color: rgb(116, 206, 14);
+}
+
+.btn-dark {
+    background-color: darkblue;
+}
+
+.badge-secondary {
+    background-color: darkorange;
+}
+
+h1 {
+    color: brown;
+}
